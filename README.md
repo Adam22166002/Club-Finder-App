@@ -1,1 +1,1 @@
-![Demo Image](public/demo.jpg)
+![Demo Image](src/public/demo.jpg)
